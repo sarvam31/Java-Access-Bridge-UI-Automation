@@ -1,0 +1,9 @@
+C:\Users\Administrator.DLDT-301A\source\repos\JABApiLib\JABApiLib\bin\x86\Release\net48\JABApiLib.dll
+C:\Users\Administrator.DLDT-301A\source\repos\JABApiLib\JABApiLib\bin\x86\Release\net48\JABApiLib.pdb
+C:\Users\Administrator.DLDT-301A\source\repos\JABApiLib\JABApiLib\obj\x86\Release\net48\JABApiLib.csproj.AssemblyReference.cache
+C:\Users\Administrator.DLDT-301A\source\repos\JABApiLib\JABApiLib\obj\x86\Release\net48\JABApiLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator.DLDT-301A\source\repos\JABApiLib\JABApiLib\obj\x86\Release\net48\JABApiLib.AssemblyInfoInputs.cache
+C:\Users\Administrator.DLDT-301A\source\repos\JABApiLib\JABApiLib\obj\x86\Release\net48\JABApiLib.AssemblyInfo.cs
+C:\Users\Administrator.DLDT-301A\source\repos\JABApiLib\JABApiLib\obj\x86\Release\net48\JABApiLib.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.DLDT-301A\source\repos\JABApiLib\JABApiLib\obj\x86\Release\net48\JABApiLib.dll
+C:\Users\Administrator.DLDT-301A\source\repos\JABApiLib\JABApiLib\obj\x86\Release\net48\JABApiLib.pdb
